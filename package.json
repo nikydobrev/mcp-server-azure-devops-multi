@@ -1,7 +1,7 @@
 {
-  "name": "sitefinity-cloud-ai-agent",
+  "name": "mcp-server-azure-devops-multi",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Multi-Organization Azure DevOps Model Context Protocol (MCP) server with LLM-optimized context handling.",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
